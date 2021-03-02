@@ -2,7 +2,7 @@
 Today's Pick (번개장터st)
 
 ## 1. 실행 동영상
-![Today_sPick (1)](https://user-images.githubusercontent.com/61138164/109646230-4607dd80-7b9b-11eb-95d8-6f1b9e5c08e4.gif)
+![Today_sPick](https://user-images.githubusercontent.com/61138164/109646370-73548b80-7b9b-11eb-8581-49e5305312d5.gif)
 
 ## 2. 설명
 
